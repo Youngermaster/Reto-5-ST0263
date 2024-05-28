@@ -8,7 +8,7 @@ En este laboratorio, vamos a desplegar un clúster EMR en Amazon Web Services. E
 
 ## Arquitectura de la Solución
 
-![Arquitectura de la Solución](architecture.png)
+![Arquitectura de la Solución](Architecture.png)
 
 ## ¿Qué es Amazon EMR?
 
