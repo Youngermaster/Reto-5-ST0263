@@ -86,7 +86,7 @@ Para solucionar el problema de la configuración de `core-site.xml` se debe modi
 
 ## Link del video
 
-[Video del reto 5](https://youtu.be/1Q6J9Z9Z9ZQ)
+[Video del reto 5](https://youtu.be/qhILkOUT-II)
 
 ## Pasos del video
 

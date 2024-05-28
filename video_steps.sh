@@ -1,7 +1,7 @@
 # ! Here are the steps made from the video
 
-scp -i Reto3.pem hadoop@ec2-34-229-205-77.compute-1.amazonaws.com:/etc/hadoop/conf/core-site.xml ~/GitHub/Youngermaster/Reto-5-ST0263
-scp -i Reto3.pem ~/GitHub/Youngermaster/Reto-5-ST0263/core-site.xml hadoop@ec2-34-229-205-77.compute-1.amazonaws.com:/etc/hadoop/conf/core-site.xml
+scp -i Reto3.pem hadoop@ec2-34-207-118-35.compute-1.amazonaws.com:/etc/hadoop/conf/core-site.xml ~/GitHub/Youngermaster/Reto-5-ST0263
+scp -i Reto3.pem ~/GitHub/Youngermaster/Reto-5-ST0263/core-site.xml hadoop@ec2-34-207-118-35.compute-1.amazonaws.com:/etc/hadoop/conf/core-site.xml
 
 sudo hdfs --daemon start httpfs
 sudo -u hdfs hadoop fs -mkdir -p /user/admin
