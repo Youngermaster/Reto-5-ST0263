@@ -10,6 +10,14 @@ En este laboratorio, vamos a desplegar un clúster EMR en Amazon Web Services. E
 
 ![Arquitectura de la Solución](Architecture.png)
 
+## Link del video
+
+[Video del reto 5](https://youtu.be/qhILkOUT-II)
+
+## Pasos del video
+
+En el script `video_steps.sh` se encuentran los pasos realizados en el video.
+
 ## ¿Qué es Amazon EMR?
 
 Amazon EMR, o Elastic MapReduce, es un servicio gestionado que facilita la ejecución de frameworks para el procesamiento de grandes volúmenes de datos, tales como Apache Hadoop, Spark, Hive, y más. En esencia, un clúster EMR está compuesto por varias instancias EC2, divididas en un nodo principal y varios nodos de trabajo.
@@ -83,14 +91,6 @@ Para solucionar el problema de la configuración de `core-site.xml` se debe modi
   <value>*</value>
 </property>
 ```
-
-## Link del video
-
-[Video del reto 5](https://youtu.be/qhILkOUT-II)
-
-## Pasos del video
-
-En el script `video_steps.sh` se encuentran los pasos realizados en el video.
 
 ## Conclusión
 
